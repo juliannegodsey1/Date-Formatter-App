@@ -23,3 +23,7 @@ The Date Formatter App allows users to view the current date in different format
 - HTML
 - CSS
 - JavaScript
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
